@@ -8,7 +8,6 @@ Build a custom HTML5 video player with JavaScript. Features:
 - Custom controls
 - Keyboard shortcuts
 
-Tutorial: https://freshman.tech/custom-html5-video/
 
 ## Live demo
 
